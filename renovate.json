@@ -1,6 +1,0 @@
-{
-  "extends": ["config:base"],
-  "ignorePaths": ["packages/build-field-tyes/__fixtures__/**/*"],
-  "rangeStrategy": "bump",
-  "lockFileMaintenance": { "enabled": true }
-}
